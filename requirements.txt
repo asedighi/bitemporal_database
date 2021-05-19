@@ -1,0 +1,5 @@
+cassandra-driver==3.20.2
+prettytable
+requests
+pyopenssl
+pandas
